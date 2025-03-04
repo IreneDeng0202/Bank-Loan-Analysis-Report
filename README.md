@@ -1,16 +1,16 @@
 # Bank Loan Reporting Dashboard
 
-## Project Overview
-This Power BI report delivers an in-depth analysis of bank loan operations, enabling key stakeholders such as financial analysts and banking executives to make informed decisions. The report is structured into three key sections: Summary, Overview, and Details, each offering a distinct analytical perspective on loan applications, disbursement, repayment trends, and portfolio performance
+## 1.Project Overview
+This Power BI report delivers an in-depth analysis of bank loan operations, enabling key stakeholders such as financial analysts and banking executives to make decisions. The report is structured into three key sections: Summary, Overview, and Details, with each offering a distinct analytical perspective on loan applications, disbursement, repayment trends, and portfolio performance.
 
-## Key Features
-- **Summary Page ：Executive Loan Portfolio Insights**:This high-level dashboard presents a holistic view of the bank’s loan performance, allowing leadership to monitor key performance indicators (KPIs) at a glance:
-Annual Metrics: Total loan applications, total funded amount, and total amount received.
-Month-to-Date (MTD) Insights: MTD loan applications, funded amount, and received amount.
-MoM (Month-over-Month) Trend Analysis: Comparative trends in loan volume, disbursement, and repayments.
-Risk & Profitability Indicators: Average interest rate and Debt-to-Income (DTI) ratio.
-Loan Status Breakdown: Analysis of fully paid, charged-off, and current loans to assess portfolio health.
-Dynamic Filtering: Integrated slicers enable real-time analysis by loan purpose, loan grade, and state, allowing decision-makers to refine insights based on specific business criteria.
+## 2.Key Features
+## 2.1 Summary Page Executive Loan Portfolio Insights
+This dashboard analyzes Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average DTI from multiple perspectives to track performance and trends:
+- **Annual Metrics**: Aggregates yearly totals to assess overall loan volume and financial impact.
+MTD (Month-to-Date) Insights: Monitors current month activity to track ongoing performance.
+MoM (Month-over-Month) Trends: Compares monthly fluctuations to identify emerging patterns and growth trends.
+Loan Status Breakdown: Evaluates these metrics across different loan statuses (Fully Paid, Charged-Off, and Current) to assess portfolio health.
+Dynamic Filtering: Enables real-time analysis by Loan Purpose, Loan Grade, and State, providing targeted insights for strategic decision-making.
 - **Overview Page**: Visualizes total loan applications trends over time, distribution by state, and breakdown by loan purpose and term, by employee lenth, by purpose, by home ownership； 这些 total loan application 根据我pbi field paramether , 可以换成total funded amount ; total amounted receiev;查看以上三个指标的byXX 情况；
 - **Details Page**: Provides a deep dive into top 10  individual loan records, highlighting key information  for each individual,
 
